@@ -1,0 +1,25 @@
+h1{
+  font-family: 'Oswald', sans-serif;
+}
+h2{
+  font-family: 'Droid Serif', serif;
+}
+h3{
+  font-family: 'Droid Serif', serif;
+  color: white;
+  font-weight: bold;
+}
+body{
+  background-color: skyblue;
+}
+.contacts{
+  max-width: 450px;
+}
+ul{
+  font-size: 24px;
+  list-style-type: none;
+}
+.col-md-4{
+  background-color: cornflowerblue;
+  word-wrap: break-word;
+}
